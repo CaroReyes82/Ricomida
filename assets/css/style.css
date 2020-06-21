@@ -1,12 +1,3 @@
-/* body {
-    font-family: 'Cabin', sans-serif;
-    font-family: 'Lobster', cursive;
-} */
-
-/* body {
-    background-color: gray;
-} */
-
 .navbar {
     background-color: #373A3C;
 }
@@ -48,20 +39,15 @@ hr {
 }
 
 #newsletter {
-    /* height: 450px; */
     height: 28rem;
-    /* height: 450px;
-    height: 28.125rem; */
 }
 
 #newsletter h1 {
-    /* font-size: 3.3333358530187rem; */
     font-family: 'Cabin';
     font-size: 40pt;
 }
 
 #newsletter h3 {
-    /* font-size: 2.500001889764rem; */
     font-size: 30pt;
 }
 
@@ -70,9 +56,6 @@ hr {
 }
 
 button {
-    /* border-style: solid !important;
-    border-width: 1pt;
-    border-color: #DDDDDD; */
     border: solid 1pt #DDDDDD !important;
 }
 
@@ -86,19 +69,14 @@ footer {
 @media (max-width: 576px)
 {
     #ingredientes-pizza h5 {
-        /* display: inline-block; */
-        /* padding-bottom: 10px; */
         border-bottom: none;
     }
 
     #newsletter h1 {
-        /* font-size: 3.3333358530187rem; */
-        /* font-family: 'Cabin'; */
         font-size: 30pt;
     }
     
     #newsletter h3 {
-        /* font-size: 2.500001889764rem; */
         font-size: 20pt;
     }
 
